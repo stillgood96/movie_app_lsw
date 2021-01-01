@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stillgood96/movie_app_lsw/static/css/main.d954d62c.chunk.css",
+    "main.js": "/stillgood96/movie_app_lsw/static/js/main.6ca91526.chunk.js",
+    "main.js.map": "/stillgood96/movie_app_lsw/static/js/main.6ca91526.chunk.js.map",
+    "runtime-main.js": "/stillgood96/movie_app_lsw/static/js/runtime-main.9aecb58f.js",
+    "runtime-main.js.map": "/stillgood96/movie_app_lsw/static/js/runtime-main.9aecb58f.js.map",
+    "static/js/2.b995cdf4.chunk.js": "/stillgood96/movie_app_lsw/static/js/2.b995cdf4.chunk.js",
+    "static/js/2.b995cdf4.chunk.js.map": "/stillgood96/movie_app_lsw/static/js/2.b995cdf4.chunk.js.map",
+    "index.html": "/stillgood96/movie_app_lsw/index.html",
+    "static/css/main.d954d62c.chunk.css.map": "/stillgood96/movie_app_lsw/static/css/main.d954d62c.chunk.css.map",
+    "static/js/2.b995cdf4.chunk.js.LICENSE.txt": "/stillgood96/movie_app_lsw/static/js/2.b995cdf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aecb58f.js",
+    "static/js/2.b995cdf4.chunk.js",
+    "static/css/main.d954d62c.chunk.css",
+    "static/js/main.6ca91526.chunk.js"
+  ]
+}
